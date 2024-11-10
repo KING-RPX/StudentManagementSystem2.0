@@ -11,5 +11,6 @@ namespace StudentManagementSystem2._0.Presentation_Layer
 {
     internal class Presentation
     {
+
     }
 }
